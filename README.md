@@ -5,7 +5,7 @@
 ##Google RankBrain: Giải thích trực quan
 RankBrain là một trí tuệ nhân tạo mà Google sử dụng để sắp xếp các kết quả tìm kiếm. Nó cũng giúp Google sử lý và hiểu các truy vấn tìm kiếm.
 
-Vậy: Vậy điều gì làm RankBrain khác biệt?
+Vậy điều gì làm RankBrain khác biệt?
 
 Trước RankBrain, 100% thuật toán của Google được viết bằng tay.
 Vì thế quá trình sử lý được diễn ra như thế này:
@@ -14,7 +14,7 @@ Vì thế quá trình sử lý được diễn ra như thế này:
 
 
 
-Tất nhiên, Các kĩ sư con người vẫn làm việc trên thuật toán. NHưng ngày nay, RankBrain cũng làm điêu đó trong nền.
+Tất nhiên, Các kĩ sư con người vẫn làm việc trên thuật toán. NHưng ngày nay, RankBrain cũng làm điều đó trong nền.
 
 Nói ngắn gọn, RankBrain tự điều chỉnh thuật toán
 
@@ -37,12 +37,16 @@ Bây giờ cái bạn đã thấy tổng quan về RankBrain. Hãy tìm hiểu s
 
 
 #Chapter 2
+
 ##RankBrain có 2 công việc chính:
+
 1. Hiểu các truy vấn tìm kiếm (các từ khóa)
 2. Đo lường cách con người tương tác với kết quả (sự hài lòng của người dùng)
 
 Hãy phân tích từng phần. 
+
 ##Cách mà RankBrain hiểu bất kì thứ gì bạn tìm kiếm.
+
 
 Một vài năm trước, Google có một vấn đề:
 
