@@ -1,8 +1,8 @@
 # The - Definitive - Guide
 
-#Chapter 1
+# Chapter 1
 
-##Google RankBrain: Giải thích trực quan
+## Google RankBrain: Giải thích trực quan
 RankBrain là một trí tuệ nhân tạo mà Google sử dụng để sắp xếp các kết quả tìm kiếm. Nó cũng giúp Google sử lý và hiểu các truy vấn tìm kiếm.
 
 Vậy điều gì làm RankBrain khác biệt?
@@ -36,16 +36,16 @@ Nó ngắn gọn, RankBrain làm việc. Và nó ở đây.
 Bây giờ cái bạn đã thấy tổng quan về RankBrain. Hãy tìm hiểu sâu hơn cách nó hoạt động.
 
 
-#Chapter 2
+# Chapter 2
 
-##RankBrain có 2 công việc chính:
+## RankBrain có 2 công việc chính:
 
 1. Hiểu các truy vấn tìm kiếm (các từ khóa)
 2. Đo lường cách con người tương tác với kết quả (sự hài lòng của người dùng)
 
 Hãy phân tích từng phần. 
 
-##Cách mà RankBrain hiểu bất kì thứ gì bạn tìm kiếm.
+## Cách mà RankBrain hiểu bất kì thứ gì bạn tìm kiếm.
 
 
 Một vài năm trước, Google có một vấn đề:
@@ -104,7 +104,7 @@ Nói ngắn gọn: Google RankBrain vượt trội so với so sánh từ khóa 
 
 Ở chapter 3 Tôi sẽ cho bạn thấy làm thế nào điểu này thay đổi cách chúng ta nên nghiên cứu từ khóa SEO. Nhưng đầu tiên, hãy xem phần thú vị nhất của RankBrain.
 
-##Cách RankBrain đo lường sự hài lòng của người dùng
+## Cách RankBrain đo lường sự hài lòng của người dùng
 
 Chắc chắn rồi, RankBrain có thể lấy một cú đâm vào sự hiểu biết từ khóa mới.Và nó cũng có thể tự tinh chỉnh thuật toán
 
