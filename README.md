@@ -1,6 +1,7 @@
 # The - Definitive - Guide
 
 #Chapter 1
+
 ##Google RankBrain: Giải thích trực quan
 RankBrain là một trí tuệ nhân tạo mà Google sử dụng để sắp xếp các kết quả tìm kiếm. Nó cũng giúp Google sử lý và hiểu các truy vấn tìm kiếm.
 
