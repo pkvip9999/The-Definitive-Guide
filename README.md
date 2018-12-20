@@ -108,7 +108,7 @@ Nói ngắn gọn: Google RankBrain vượt trội so với so sánh từ khóa 
 
 Chắc chắn rồi, RankBrain có thể lấy một cú đâm vào sự hiểu biết từ khóa mới.Và nó cũng có thể tự tinh chỉnh thuật toán
 
-Nhưng câu hỏi lớn ở đây là: Khi RankBrain hiển thị một tập hợp các kết quả shows a set of results, làm cách nào để biết liệu chúng có thật sự tốt không?
+Nhưng câu hỏi lớn ở đây là: Khi RankBrain hiển thị một tập hợp các kết quả, làm cách nào để biết liệu chúng có thật sự tốt không?
 
 Vâng nó quan sát:
 
@@ -116,7 +116,7 @@ Vâng nó quan sát:
 
 Nói cách khác, RankBrain cho ta thấy một tập hợp các kết quả tìm kiếm mà nó nghĩ bạn sẽ thích. Nếu nhiều người thích một trang cụ thể trong kết quả, nó sẽ cho trang đó tăng hạng.
 
-Và nếu bạn không thích trang đó? Nó sẽ bỏ trang đó và thay thế nó bằng một trang khác. Và lần tới ai đó tìm kiếm với từ khóa đó (hoặc một thuật ngữ tương tự) họ sẽ thấy nó hoạt động như thế nào.
+Và nếu bạn không thích trang đó? Nó sẽ bỏ trang đó và thay thế nó bằng một trang khác. Và lần tới ai đó tìm kiếm với từ khóa đó (hoặc một thuật ngữ tương tự)nó  sẽ quan sát trang đó hoạt động như thế nào.
 
 Cái mà RankBrain quan sát chính xác?
 
@@ -152,7 +152,7 @@ Vì vậy thay vì ấn trở lại, bạn mất 5 phút đọc qua các cách t
 
 Việc quay lại và ra được gọi là “Pogo-sticking”. Đó là một cái gì đó mà RankBrain rất coi trọng hành động đó.
 
-Nếu Google được thông báo rằng mọi người nhanh chóng rời khỏi trang và click vào một kết quả tìm kiếm khác, điều đó gửi một thông báp mạnh mẽ tời Google:
+Nếu Google được thông báo rằng mọi người nhanh chóng rời khỏi trang và click vào một kết quả tìm kiếm khác, điều đó gửi một thông báo mạnh mẽ tời Google:
 “Trang đó không tốt!”.
 ![11](https://cdn-backlinko.pressidium.com/wp-content/uploads/2017/11/2_11_pogo-stick-effect-3.png)
 
